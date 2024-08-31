@@ -19,15 +19,15 @@ This project investigates how distinct user communities perceive and discuss the
 
 To get started with the project, follow these steps:
 
-  Clone the Repository
+Clone the repository :
 
-   ```bash
-   git clone https://github.com/wubba438/Comparative-Analysis-of-Online-Discussions-on-the-Israel-Gaza-war-Insights-from-Reddit-and-Weibo/
-   cd Comparative-Analysis-of-Online-Discussions-on-the-Israel-Gaza-war-Insights-from-Reddit-and-Weibo
-    ```
+```bash
+git clone git@github.com:wubba438/Comparative-Analysis-of-Online-Discussions-on-the-Israel-Gaza-war-Insights-from-Reddit-and-Weibo.git
+cd Comparative-Analysis-of-Online-Discussions-on-the-Israel-Gaza-war-Insights-from-Reddit-and-Weibo
+```
 
-  Install dependencies
+Install dependencies :
 
-    ```bash
-    python -m pip install -r requirements.txt
-    ```
+```bash
+python -m pip install -r requirements.txt
+```
