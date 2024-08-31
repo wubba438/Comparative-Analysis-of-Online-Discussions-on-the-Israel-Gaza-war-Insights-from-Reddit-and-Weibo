@@ -24,6 +24,7 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/wubba438/Comparative-Analysis-of-Online-Discussions-on-the-Israel-Gaza-war-Insights-from-Reddit-and-Weibo/
    cd Comparative-Analysis-of-Online-Discussions-on-the-Israel-Gaza-war-Insights-from-Reddit-and-Weibo
+    ```
 
   **Install dependencies**
 
